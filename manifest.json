@@ -1,0 +1,30 @@
+{
+  "name": "Bilgelikler Divanı — Hikemî Şiir & Beyitler | Oğuz Bulut",
+  "short_name": "Bilgelikler",
+  "description": "N. Ahmet Özalp'ın Bilgelikler Divanı kaynağından 1002 Mısra ve 2001 Beyit — Arama, Sesli Okuma, Sınav ve Liderlik Tablosu | Oğuz Bulut",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f7efde",
+  "theme_color": "#172e54",
+  "lang": "tr",
+  "categories": [
+    "education",
+    "books"
+  ],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
